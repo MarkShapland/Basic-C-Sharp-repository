@@ -1,0 +1,7 @@
+C:\Users\mark_\Documents\GitHub\C-Sharp-Projects\Basic-C-Sharp-repository\Basic_C#_Programs\DailyReportSubmission Statement\DailyReportSubmission Statement\bin\Debug\DailyReportSubmission Statement.exe.config
+C:\Users\mark_\Documents\GitHub\C-Sharp-Projects\Basic-C-Sharp-repository\Basic_C#_Programs\DailyReportSubmission Statement\DailyReportSubmission Statement\bin\Debug\DailyReportSubmission Statement.exe
+C:\Users\mark_\Documents\GitHub\C-Sharp-Projects\Basic-C-Sharp-repository\Basic_C#_Programs\DailyReportSubmission Statement\DailyReportSubmission Statement\bin\Debug\DailyReportSubmission Statement.pdb
+C:\Users\mark_\Documents\GitHub\C-Sharp-Projects\Basic-C-Sharp-repository\Basic_C#_Programs\DailyReportSubmission Statement\DailyReportSubmission Statement\obj\Debug\DailyReportSubmission Statement.csproj.CoreCompileInputs.cache
+C:\Users\mark_\Documents\GitHub\C-Sharp-Projects\Basic-C-Sharp-repository\Basic_C#_Programs\DailyReportSubmission Statement\DailyReportSubmission Statement\obj\Debug\DailyReportSubmission Statement.exe
+C:\Users\mark_\Documents\GitHub\C-Sharp-Projects\Basic-C-Sharp-repository\Basic_C#_Programs\DailyReportSubmission Statement\DailyReportSubmission Statement\obj\Debug\DailyReportSubmission Statement.pdb
+C:\Users\mark_\Documents\GitHub\C-Sharp-Projects\Basic-C-Sharp-repository\Basic_C#_Programs\DailyReportSubmission Statement\DailyReportSubmission Statement\obj\Debug\DailyReportSubmission Statement.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\mark_\Documents\GitHub\C-Sharp-Projects\Basic-C-Sharp-repository\Basic_C#_Programs\Accounting software\Accounting software\bin\Debug\Accounting software.exe.config
+C:\Users\mark_\Documents\GitHub\C-Sharp-Projects\Basic-C-Sharp-repository\Basic_C#_Programs\Accounting software\Accounting software\bin\Debug\Accounting software.exe
+C:\Users\mark_\Documents\GitHub\C-Sharp-Projects\Basic-C-Sharp-repository\Basic_C#_Programs\Accounting software\Accounting software\bin\Debug\Accounting software.pdb
+C:\Users\mark_\Documents\GitHub\C-Sharp-Projects\Basic-C-Sharp-repository\Basic_C#_Programs\Accounting software\Accounting software\obj\Debug\Accounting software.csprojAssemblyReference.cache
+C:\Users\mark_\Documents\GitHub\C-Sharp-Projects\Basic-C-Sharp-repository\Basic_C#_Programs\Accounting software\Accounting software\obj\Debug\Accounting software.csproj.CoreCompileInputs.cache
+C:\Users\mark_\Documents\GitHub\C-Sharp-Projects\Basic-C-Sharp-repository\Basic_C#_Programs\Accounting software\Accounting software\obj\Debug\Accounting software.exe
+C:\Users\mark_\Documents\GitHub\C-Sharp-Projects\Basic-C-Sharp-repository\Basic_C#_Programs\Accounting software\Accounting software\obj\Debug\Accounting software.pdb
